@@ -2,13 +2,14 @@
     width: 1000px;
     height: 750px;
     border: 2px solid red;
+    color:blueviolet;
 }
 .box{
     width: 400px;
     height: 300px;
-    border: 3px solid rgb(36, 4, 112);
+    border: 3px dashed blueviolet;
     text-align: center;
-    font-size: 5;
+    font-size: 7;
 }
 #boxtopLeft{
     float: left;
@@ -18,11 +19,15 @@
 #boxtopRight{
 float: right;
 margin-right: 50px;
-
 margin-top: 50px;
 }
 #boxbottomleft{
     float: left;
     margin-top: 50px;
     margin-left: 50px;
+}
+#boxbottomright{
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
 }
