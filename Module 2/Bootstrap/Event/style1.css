@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Caveat', cursive;
+        font-family: 'Lumanosimo', cursive;
+}
+.logo{
+    color:#9F0D7F
+}
+.carousel-item img{
+    width: 100%;
+    
+}
+.accordian-item{
+    color:aqua;
+    text-align: justify;
+
+}
+.accordian-button {
+    color: rgb(228, 74, 99);
+   
+
+}
